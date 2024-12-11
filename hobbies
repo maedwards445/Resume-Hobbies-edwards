@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makeda Edwards' Hobbies</title>
+    <style>
+        /* Page background color */
+        body {
+            background-color: #f9f9f4;
+            font-family: "Verdana", sans-serif;
+            color: #333;
+        }
+
+        /* Image styling */
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #ccc;
+        }
+
+        /* Style for headings */
+        h1, h2 {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        h1 {
+            color: #e67e22; /* Orange */
+        }
+
+        h2 {
+            color: #2980b9; /* Blue */
+        }
+
+        /* Add a border around the sections */
+        section {
+            border: solid 2px #2980b9;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+        }
+
+        /* Text in the sections */
+        p, ul {
+            line-height: 1.8;
+        }
+
+        /* Styling for links */
+        a {
+            color: #e67e22;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Makeda Edwards' Hobbies</h1>
+    <section>
+        <h2>Photography</h2>
+        <p>I enjoy capturing moments and telling stories through the lens of my camera. Photography allows me to express my creativity and explore the beauty of the world around me.</p>
+        <img src="https://example.com/photography-image.jpg" alt="Photography Hobby">
+    </section>
+
+    <section>
+        <h2>Hiking</h2>
+        <p>Hiking is a favorite pastime of mine, as it combines exercise with the opportunity to explore nature. Whether it's climbing mountains or walking forest trails, I always feel refreshed and inspired.</p>
+        <img src="https://example.com/hiking-image.jpg" alt="Hiking Hobby">
+    </section>
+
+    <section>
+        <h2>Reading</h2>
+        <p>Diving into a good book is one of my favorite ways to relax and learn. From fiction to self-development, reading broadens my perspective and fuels my imagination. My favorite book is the Bible, I love everything about it!</p>
+        <img src="https://example.com/reading-image.jpg" alt="Reading Hobby">
+    </section>
+
+    <footer>
+        <p>Return to my <a href="index.html">Resume</a>.</p>
+    </footer>
+</body>
+</html>
